@@ -2,7 +2,7 @@
 
 ## Description
 
-This guide was created for students going through the Prework as part of the boot camp. It has introduction notes to HTML, CSS, Git and JAVASCRIPT.
+This guide was created for students going through the Prework as part of the boot camp. It has introduction notes to HTML, CSS, Git and JavaScript.
 
 - This project was inspired by HTML, CSS, Git and JavaScript.
 - This was built to help bootcamp students prepare for classes.
