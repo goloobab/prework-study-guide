@@ -4,10 +4,9 @@
 
 This guide was created for students going through the Prework as part of the boot camp. It has introduction notes to HTML, CSS, Git and JAVASCRIPT.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- This project was inspired by HTML, CSS, Git and JavaScript.
+- This was built to help bootcamp students prepare for classes.
+- You will learn that JavaScript makes the webpage interactive.
 
 ## Installation
 
